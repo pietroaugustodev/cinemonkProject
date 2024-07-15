@@ -1,1 +1,1 @@
-# projectCinemonk
+# cinemonkProject
